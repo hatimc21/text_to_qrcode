@@ -1,2 +1,6 @@
 # text_to_qrcode
-I made a simple app to generate qr code from input text
+hello this is a basic virson of text to qr code image lets call it early acces the alpha version
+for this application to work the file "import_qrcode.py" should be always on the same folder with the "text_to_qr_cmd.exe"
+the qr will be generated as a jpg file
+
+there is no limit of text lenght so go and have fun 
