@@ -9,6 +9,7 @@ there is no limit of text lenght so go and have fun
 # What do you need to use it
 
 1- python installed 
+
 2- qrcode imported
 
 # how to install dependencies 
